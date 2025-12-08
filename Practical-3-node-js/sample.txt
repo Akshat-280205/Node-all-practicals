@@ -1,0 +1,15 @@
+Student Information System
+
+Name: Akshat
+Student ID: GF202341424
+Course:BCA
+Semester: 5th Semester
+Email: AkshatSingh@gmail.conm
+
+Practical for Node js
+
+
+
+
+
+
